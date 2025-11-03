@@ -5,7 +5,7 @@
 🎓 IT/Data Management Graduat | 💻 Backend Developer | 📊 Data Scientist | AI 
 
 Passionate about building reliable backend systems, analyzing data, and creating intelligent applications.
-Portfolio: <a href="#-Potfolio">https://alroshdi.github.io/hajeralroshdi.github.io/</a>
+ <a href="#-Potfolio">https://alroshdi.github.io/hajeralroshdi.github.io/</a>
 ---
 
 ## 🌐 Navigation
