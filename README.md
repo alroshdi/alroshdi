@@ -4,6 +4,8 @@
 
 🎓 IT/Data Management Graduat | 💻 Backend Developer | 📊 Data Scientist | AI 
 
+<a href="#-about-me">https://alroshdi.github.io/hajeralroshdi.github.io/</a>
+
 Passionate about building reliable backend systems, analyzing data, and creating intelligent applications.
 
 ---
@@ -82,11 +84,6 @@ Passionate about building reliable backend systems, analyzing data, and creating
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alroshdi92&layout=compact&theme=tokyonight)
 
 ---
-
----
-
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=alroshdi92&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 
 
