@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=008B8B&center=true&vCenter=true&width=600&lines=👋+Hi+there,+I'm+Hajer!;💻+Software+Developer;📊+Data+Scientist+|&+🤖+AI" alt="Typing SVG" />
 </p>
 
-🎓 IT Graduat <br> 
+🎓 IT (Data Management) Graduat <br> 
 Freelance as a 💻 Software Developer | 📊 Data Scientist & AI
 
 Passionate about building reliable backend systems, analyzing data, and creating intelligent applications.
