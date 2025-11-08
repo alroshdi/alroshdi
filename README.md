@@ -3,7 +3,7 @@
 </p>
 
 🎓 IT Graduat | 
-Freelance as a 💻 Software Developer | 📊 Data Scientist & AI 
+Freelance as a 💻 Software Developer | 📊 Data Scientist & AI
 
 Passionate about building reliable backend systems, analyzing data, and creating intelligent applications.
 ---
