@@ -5,7 +5,7 @@
 🎓 Information Technology /Data Management Graduate <br> 
 Freelance as a 💻 Software Developer | 📊 Data Scientist & AI
 
-Passionate about building reliable backend systems, analyzing data, and creating intelligent applications. https://alroshdi.github.io/hajersystems/
+Passionate about building reliable Software systems, analyzing data, and creating intelligent applications. https://alroshdi.github.io/hajersystems/
 
 ---
 
