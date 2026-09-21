@@ -5,25 +5,26 @@
 🎓 Information Technology /Data Management Graduate <br> 
 Freelance as a 💻 Software Developer | 📊 Data Scientist & AI
 
+Passionate about building reliable Software systems, analyzing data, and creating intelligent applications. https://alroshdi.github.io/hajersystems/
+<br>
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" height="50" />
-  </a>
+  </a><br>
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" height="50" />
-  </a>
+  </a><br>
+    <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" height="50" />
+  </a><br>
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  </a>
+  </a><br>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50" />
-  <a href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" height="50" />
-  </a>
+
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" />
 </p>
-
-Passionate about building reliable Software systems, analyzing data, and creating intelligent applications. https://alroshdi.github.io/hajersystems/
-
+<br>
 ---
 
 ## 👤About Me
