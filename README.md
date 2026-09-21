@@ -10,16 +10,16 @@ Passionate about building reliable Software systems, analyzing data, and creatin
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" height="50" />
-  </a><br>
+  </a>
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" height="50" />
-  </a><br>
+  </a>
     <a href="https://laravel.com/">
     <img src="https://skillicons.dev/icons?i=laravel" height="50" />
-  </a><br>
+  </a>
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  </a><br>
+  </a>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50" />
 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" />
