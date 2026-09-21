@@ -18,24 +18,12 @@ Passionate about building reliable Software systems, analyzing data, and creatin
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
 ---
+
 # 👤About Me
 
 - 💡 2+ years of experience as a Software Developer (C#, .NET APIs).
-- 📊 Trained for 6 months in Data Science & AI (Python, SQL, Power BI, Excel, ETL).
-- 🌐 Developed and deployed interactive web apps.
-- 🎓 Final Year Project: University Library DBMS with smart features & web access
+- 📊 6 months in Data Science & AI (Python, SQL, Power BI, Excel, ETL).
+- 🌐 Developed and deployed interactive web apps and mobile apps.
 ---
-
-# 🛠️ Tech Stack
-
-**Languages:** Python · C# · SQL · HTML/CSS/JavaScript  
-**Frameworks:** .NET · ASP.NET MVC · Streamlit · Flask  
-**Tools:** Git · Power BI · Pandas · Scikit-learn · TensorFlow · SQL Server  
-**Other:** REST APIs · ERD · CRUD Systems · Data Visualization
----
-
-
-
-
-
