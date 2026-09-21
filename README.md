@@ -19,7 +19,7 @@ Passionate about building reliable Software systems, analyzing data, and creatin
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 ---
-## 👤About Me
+# 👤About Me
 
 - 💡 2+ years of experience as a Software Developer (C#, .NET APIs).
 - 📊 Trained for 6 months in Data Science & AI (Python, SQL, Power BI, Excel, ETL).
@@ -27,51 +27,14 @@ Passionate about building reliable Software systems, analyzing data, and creatin
 - 🎓 Final Year Project: University Library DBMS with smart features & web access
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Languages:** Python · C# · SQL · HTML/CSS/JavaScript  
 **Frameworks:** .NET · ASP.NET MVC · Streamlit · Flask  
 **Tools:** Git · Power BI · Pandas · Scikit-learn · TensorFlow · SQL Server  
 **Other:** REST APIs · ERD · CRUD Systems · Data Visualization
 ---
-## 📌 Projects
 
-👉 Explore my repos to see more!
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alroshdi92/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hajeralroshdi99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/alroshdi92">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alroshdi92&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alroshdi92&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alroshdi92&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 
 
