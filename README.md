@@ -9,21 +9,6 @@ Passionate about building reliable Software systems, analyzing data, and creatin
 
 ---
 
-## 🌐 Navigation
-<p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-blue?style=for-the-badge&logo=github" alt="About Me" /></a> •
-  <a href="#️-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-green?style=for-the-badge&logo=github" alt="Tech Stack" /></a> •
-  <a href="#-projects"><img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge&logo=github" alt="Projects" /></a> •
-  <a href="#-lets-connect"> <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=github" alt="Contact" /></a> •
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/GitHub%20Stats-purple?style=for-the-badge&logo=github" alt="GitHub Stats" /></a> •
-  <a href="#-github-trophies"><img src="https://img.shields.io/badge/Trophies-gold?style=for-the-badge&logo=github" alt="Trophies" /></a>
-</p>
-
-
-
-
----
-
 ## 👤About Me
 
 - 💡 2+ years of experience as a Backend Software Developer (Python, C#, SQL, .NET APIs)
@@ -35,6 +20,23 @@ Passionate about building reliable Software systems, analyzing data, and creatin
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" height="50" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" height="50" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50" />
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" height="50" />
+  </a>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" />
+</p>
 
 **Languages:** Python · C# · SQL · HTML/CSS/JavaScript  
 **Frameworks:** .NET · ASP.NET MVC · Streamlit · Flask  
