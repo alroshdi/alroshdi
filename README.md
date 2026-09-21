@@ -23,7 +23,8 @@ Passionate about building reliable Software systems, analyzing data, and creatin
 
 # 👤About Me
 
-- 💡 2+ years of experience as a Software Developer (C#, .NET APIs).
+- 💡 1+ years of experience in Data Analysis and workflow automation.
 - 📊 6 months in Data Science & AI (Python, SQL, Power BI, Excel, ETL).
+- 💡 2+ years of experience as a Software Developer (C#, .NET APIs).
 - 🌐 Developed and deployed interactive web apps and mobile apps.
 ---
