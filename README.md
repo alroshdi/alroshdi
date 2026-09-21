@@ -5,22 +5,6 @@
 🎓 Information Technology /Data Management Graduate <br> 
 Freelance as a 💻 Software Developer | 📊 Data Scientist & AI
 
-Passionate about building reliable Software systems, analyzing data, and creating intelligent applications. https://alroshdi.github.io/hajersystems/
-
----
-
-## 👤About Me
-
-- 💡 2+ years of experience as a Backend Software Developer (Python, C#, SQL, .NET APIs)
-- 📊 Trained for 6 months in Data Science & AI (Pandas, scikit-learn, TensorFlow)
-- 🔄 Built ETL pipelines, ML models, APIs, and PowerBI dashboards for real-world use cases
-- 🌐 Developed and deployed interactive web apps using Streamlit and .NET
-- 🎓 Final Year Project: University Library DBMS with smart features & web access
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" height="50" />
@@ -37,6 +21,22 @@ Passionate about building reliable Software systems, analyzing data, and creatin
   </a>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" />
 </p>
+
+Passionate about building reliable Software systems, analyzing data, and creating intelligent applications. https://alroshdi.github.io/hajersystems/
+
+---
+
+## 👤About Me
+
+- 💡 2+ years of experience as a Backend Software Developer (Python, C#, SQL, .NET APIs)
+- 📊 Trained for 6 months in Data Science & AI (Pandas, scikit-learn, TensorFlow)
+- 🔄 Built ETL pipelines, ML models, APIs, and PowerBI dashboards for real-world use cases
+- 🌐 Developed and deployed interactive web apps using Streamlit and .NET
+- 🎓 Final Year Project: University Library DBMS with smart features & web access
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages:** Python · C# · SQL · HTML/CSS/JavaScript  
 **Frameworks:** .NET · ASP.NET MVC · Streamlit · Flask  
